@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MelindaN29, a 6th year french pharmD student, actually enrolled in a MSc in Clinical Trials. 
+- 👋 Hi, I’m @MelindaN29, a Pharm.D candidate, actually enrolled in a MSc in PK/PD Modelling. 
 - 👀 I’m interested in the multiple ways to have a positive impact on healthcare with technologies. 
-- 🌱 I’m currently learning Python programming via the "Codecademy Data Scientist Career Path". 
+- 🌱 I’m currently learning R Programming (Tidy data, presentations), and R Shiny. 
 - 💞️ I’m looking to collaborate on healthcare projects (beginner friendly 😊)
 - 📫 How to reach me : linkedin.com/in/melinda-nahid/?locale=en_US
 
