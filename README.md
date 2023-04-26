@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MelindaN29, a Pharm.D candidate, actually enrolled in a MSc in PK/PD Modelling. 
-- 👀 I’m interested in the multiple ways to have a positive impact on healthcare with technologies. 
-- 🌱 I’m currently learning R Programming (Tidy data, presentations), and R Shiny. 
-- 💞️ I’m looking to collaborate on healthcare projects (beginner friendly 😊)
+- 👋 Hi, I’m @MelindaN29, a Pharm.D candidate, actually completing a MSc in PK/PD Modelling. 
 - 📫 How to reach me : linkedin.com/in/melinda-nahid/?locale=en_US
 
 <!---
